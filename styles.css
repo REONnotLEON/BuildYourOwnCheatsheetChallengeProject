@@ -1,0 +1,32 @@
+*{
+    font-family: Arial,sans-serif;
+  }
+  h1{
+    font-size: 2em;
+    text-align: center;
+  }
+  h2{
+    font-size: 1.5em;
+    text-align: center;
+    color: rebeccapurple;
+  }
+  table{
+    border: 2px solid rebeccapurple;
+    margin: 0 auto;
+    width: 650px;
+  }
+  th{
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    background-color: plum;
+  }
+  td{
+    border-top: 1px solid darkorchid;
+    font-size: 16px;
+  }
+  .tag{
+    font-family: monospace;
+    background-color: beige;
+    font-size: 13px;
+  }
